@@ -1,0 +1,6 @@
+{
+  "name": "Infarm.uz",
+  "description": "Modern premium marketplace mobile application in Uzbek, Russian, and English including an interactive coin loyalty program, daily reward spin wheel, fully simulated marketplace checkout, secure client-side user sessions, interactive push alerts, and an advanced Gemini AI chatbot assistant supporting smart recommendation. Fully realized in an eye-safe black and neon green premium design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
